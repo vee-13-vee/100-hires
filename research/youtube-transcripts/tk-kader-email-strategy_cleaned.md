@@ -1,7 +1,7 @@
 # Video Title: tk-kader-email-strategy
 # Source: YouTube
 # Cleaned Transcript
-
+tk-kader-email-strategy_cleaned
 - Job as marketers is not to go from step A to step Z, it's to help the buyer go from step A to step B to step C. (upbeat music) Hey, there, I'm Dan Martell, serial entrepreneur, investor, and creator of SaaS Academy. In this episode, I'm gonna share with you the four key campaigns for your email marketing. A lot of you are doing email marketing.
 
 You're just blasting people. You think I'm just gonna share everything I know. You have no strategy. You have no strategy for how to deal with new leads, customers, or even on-going engagement.
